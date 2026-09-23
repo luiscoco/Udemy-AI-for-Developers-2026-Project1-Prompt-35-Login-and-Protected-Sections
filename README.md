@@ -1,4 +1,4 @@
-# Prompt E — Adding a Login Flow to the Frontend
+# Adding a Login Flow to the Frontend
 
 This guide walks through how the AI assistant carried out **Prompt E: "Frontend: login flow and auth-aware API client"**. The goal is to show the *process* as well as the result: how to read an existing codebase, plan a change, build it in small pieces, and check it before calling it done.
 
